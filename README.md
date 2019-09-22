@@ -43,3 +43,21 @@ name (at least) one thing you intend to use in the future (also used them before
   ![linux survival completed 3](task_unix_shell/completed_3.png)
   ![linux survival completed 4](task_unix_shell/completed_4.png)
 </details>
+
+## Git Collaboration
+
+name (at least) one thing that was new to you:
+- `git shortlog`
+- `git log --author=""`
+
+name (at least) one thing that surprised you:
+- `git log --grep=""`
+
+name (at least) one thing you intend to use in the future:
+- `git log --grep=""`
+
+<details>
+  <summary>Udacity: GitHub & Collaboration</summary>
+
+  ![git course completed](task_git_collaboration/completed.png)
+</details>
