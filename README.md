@@ -61,3 +61,27 @@ name (at least) one thing you intend to use in the future:
 
   ![git course completed](task_git_collaboration/completed.png)
 </details>
+
+## NodeJS Basics 1
+
+name (at least) one thing that was new to you:
+- trampoline function implementation
+- The last task of "functional javascript workshop"
+- Work with crypto, tar and zlib in NodeJS
+
+name (at least) one thing that surprised you:
+- The last task of "functional javascript workshop" surprised of using `call` on `Function.prototype` and I found a new way of IIFE implementation.
+
+name (at least) one thing you intend to use in the future:
+- I think crypto module
+
+
+<details>
+  <summary>Courses</summary>
+
+  ![learn you node completed](node_basic_1/learnyounode.png)
+
+  ![functional javascript workshop completed](node_basic_1/functional-javascript-workshop.png)
+
+  ![stream adventure completed](node_basic_1/stream-adventure.png)
+</details>
