@@ -140,3 +140,23 @@ name (at least) one thing that surprised you:
 
 name (at least) one thing you intend to use in the future:
 - Memory Profiles in Chrome
+
+## TCP. UDP. Network
+
+name (at least) one thing that was new to you:
+- `mtr`, `host`, `dig`, `nc`
+
+name (at least) one thing that surprised you:
+- how traceroute manipulates with TTL value to trace packets path
+
+name (at least) one thing you intend to use in the future:
+- `host` and `dig` in addition to `traceroute`
+- `nc` - it's convenient. In Windows I used `telnet` instead :)
+
+<details>
+  <summary>Courses</summary>
+
+  ![Internet 101 completed](task_networks/internet-101.png)
+
+  ![networking for web developers completed](task_networks/networking-for-web-developers.png)
+</details>
